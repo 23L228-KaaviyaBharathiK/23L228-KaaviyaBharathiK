@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @23L228-KaaviyaBharathiK
+- This is Kaaviya Bharathi K - 23L228
 - My Team Name : Tech Trio
-- Teammates : Mahasri S G , Nagalakshimi 
-- 📫 How to reach me through mail id 23l228@psgtech.ac.in 
+- Teammates : Mahasri S G - 23L239 , Nagalakshimi - 23L249
+- ECE students
+- 📫 How to reach me - 23l228@psgtech.ac.in 
 - 😄 Pronouns: We
 
 <!---
